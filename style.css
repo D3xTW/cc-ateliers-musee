@@ -1,8 +1,8 @@
 /* Theme values used by the page. */
 :root {
-    --page-background: #f4f1ea;
+    --page-background: #17223b;
     --page-text: #17223b;
-    --accent: #bc743f;
+    --page-text: #ffffff;
 }
 * { box-sizing: border-box; }
 body { margin: 0; font-family: Arial, sans-serif; background: var(--page-background); color: var(--page-text); line-height: 1.6; }
